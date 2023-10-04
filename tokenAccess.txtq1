@@ -1,0 +1,17 @@
+Repository Access Token created
+Your Repository Access Token: "repoTBR"
+Record this token somewhere secure, it can't be viewed or retrieved once you close this window.
+ATCTT3xFfGN0hnld6hHbICtkhwxNzFZcbSA1W38vZZgE0Kspl1r09EFBpAOk7esxnPTxyRQE7CuCvNVZ8JQi_6Ze15rwsD1rU5mI-Kk7TsmgxpBi1dx_6QdB1OjxNhEY07yyHr1nqB1UzhqhibTLfCBFPvuowVIgc8vUwhSozFKv2qBJABfSlhQ=D63E2D30
+
+How to use this token with APIs
+Provide this token in the Authorization header as a bearer token when making requests to Bitbucket APIs, for example:
+Authorization: Bearer ATCTT3xFfGN0hnld6hHbICtkhwxNzFZcbSA1W38vZZgE0Kspl1r09EFBpAOk7esxnPTxyRQE7CuCvNVZ8JQi_6Ze15rwsD1rU5mI-Kk7TsmgxpBi1dx_6QdB1OjxNhEY07yyHr1nqB1UzhqhibTLfCBFPvuowVIgc8vUwhSozFKv2qBJABfSlhQ=D63E2D30
+
+How to use this token with your Git repository
+To clone this repository using this token, run:
+git clone https://x-token-auth:ATCTT3xFfGN0hnld6hHbICtkhwxNzFZcbSA1W38vZZgE0Kspl1r09EFBpAOk7esxnPTxyRQE7CuCvNVZ8JQi_6Ze15rwsD1rU5mI-Kk7TsmgxpBi1dx_6QdB1OjxNhEY07yyHr1nqB1UzhqhibTLfCBFPvuowVIgc8vUwhSozFKv2qBJABfSlhQ=D63E2D30@bitbucket.org/tryb/repotbr.git
+
+
+To use this token to push code to this repository, you need to set the Git author on the cloned repository by running:
+git config user.email 386f9grm9zh5t4awe93q6b9604bw91@bots.bitbucket.org
+
